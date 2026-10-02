@@ -159,7 +159,7 @@ export function SiteFooter() {
                 <li><Link to="/articles" className="text-muted-foreground hover:text-primary">All articles</Link></li>
                 <li><Link to="/categories" className="text-muted-foreground hover:text-primary">Categories</Link></li>
                 <li><Link to="/tags" className="text-muted-foreground hover:text-primary">Tags</Link></li>
-                <li><Link to="/search" className="text-muted-foreground hover:text-primary">Search</Link></li>
+                <li><Link to="/search" search={{ q: "" }} className="text-muted-foreground hover:text-primary">Search</Link></li>
               </ul>
             </div>
 
