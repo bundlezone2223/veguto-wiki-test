@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "content:gen": "bun scripts/generate-content.ts"
+    "content:gen": "bun scripts/generate-content.ts",
+    "deploy": "vite build && wrangler deploy"
   },
   "dependencies": {
     "@hookform/resolvers": "^5.2.2",
