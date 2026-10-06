@@ -12,7 +12,7 @@ export const article = {
   title: "Deltarune: كل ما تحتاج معرفته عن لعبة Toby Fox",
   description: "لعبة تقمّص أدوار من تطوير Toby Fox، صاحب Undertale، تبدأ بيوم دراسي عادي وتنتهي في عالم مظلم. تعرّف على قصتها وقتالها وشخصياتها وفصولها وما ينتظرها.",
   thumbnail: "",
-  category: "ألعاب",
+  category: "gaming",
   categories: ["gaming"],
   tags: ["Deltarune", "Toby Fox", "Undertale", "RPG", "Kris", "Susie", "Ralsei", "Spamton", "Tenna"],
   content: [
